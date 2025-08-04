@@ -1,3 +1,7 @@
+<p>
+  <img src="[https://i.pinimg.com/originals/18/80/dd/1880dd84a6378ac2a249ddb4ea88663b.gif](https://steamuserimages-a.akamaihd.net/ugc/2466375593106834884/BA3BE647F99107C48EF0377EF0CD2BFEC58C3A77/?imw=630&imh=352&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)" alt="Gif">
+</p>
+
 ## Hi, i am Arseniy Escalade 👋
 
 ⭐️ Begginer C# developer<br/>
