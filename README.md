@@ -6,11 +6,6 @@
 
 ⭐️ Begginer C# developer<br/>
 🧠 Owner of Moonlight Project<br/>
-🎯 My socials:<br/>
- • Telegram Channel - https://t.me/escal3deit<br/>
- • TikTok - https://www.tiktok.com/@escal3de<br/>
- • YouTube - https://www.youtube.com/@escal3de<br/>
-
 
 ## 🌐 Socials:
 <p>
