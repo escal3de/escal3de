@@ -5,7 +5,7 @@
 ## Hi, i am Arseniy Escalade 👋
 
 ⭐️ Begginer C# developer<br/>
-🧠 Owner of Moonlight Project<br/>
+🧠 Owner of Moonlight Soft<br/>
 
 ## 🌐 Socials:
 <p>
