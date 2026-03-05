@@ -1,5 +1,5 @@
 <p>
-  <img src="[https://steamuserimages-a.akamaihd.net/ugc/19798270914755646/2EDC82ED4F6428055D14C2DDF6F5355A938BD165/?imw=630&imh=306&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif?nii=t)" alt="Gif">
+  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif?nii=t" alt="Gif">
 </p>
 
 ## Hi, i am Arseniy Escalade 👋
