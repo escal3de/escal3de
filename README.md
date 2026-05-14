@@ -38,7 +38,7 @@ Backend developer focused on building **scalable** and **maintainable** systems.
 | **Backend** | ASP.NET Core Web API, Entity Framework Core |
 | **Databases** | PostgreSQL, SQLite, Redis (Caching) |
 | **Architecture** | Clean Architecture, Modular Monoliths, DDD |
-| **Tools & Testing** | Git, Postman, Swagger, xUnit / Bogus |
+| **Tools & Testing** | Git, Postman, Swagger, xUnit |
 
 ---
 
