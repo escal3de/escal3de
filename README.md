@@ -1,5 +1,5 @@
 <p>
-  <img src="https://images.steamusercontent.com/ugc/13279244725090780108/7A41D15BE1BF76E6C198514CD3C1CED3B39844DA/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" alt="Gif">
+  <img src="https://images.steamusercontent.com/ugc/13279244725090780108/7A41D15BE1BF76E6C198514CD3C1CED3B39844DA/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" alt="Gif" align="center">
 </p>
 
 <h1 align="center">Hi, i am escal3de</h1>
