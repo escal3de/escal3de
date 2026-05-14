@@ -2,4 +2,62 @@
   <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif?nii=t" alt="Gif">
 </p>
 
-<h1 align="center">escal3de</h1> <p align="center"> backend developer • asp.net web api • clean architecture </p> <p align="center"> <a href="https://github.com/escal3de"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> </a> </p> --- ## about backend developer focused on building scalable and maintainable systems. i enjoy designing domain models, structuring modular monoliths, and creating clean architectures that remain simple to extend and support. --- ## stack <table> <tr> <td align="center" width="160"> ### language <img src="https://skillicons.dev/icons?i=cs"/> c# </td> <td align="center" width="160"> ### backend <img src="https://skillicons.dev/icons?i=dotnet"/> asp.net web api </td> <td align="center" width="160"> ### orm <img src="https://skillicons.dev/icons?i=dotnet"/> entity framework core </td> <td align="center" width="160"> ### databases <img src="https://skillicons.dev/icons?i=postgresql,sqlite"/> postgresql / sqlite </td> </tr> <tr> <td align="center" width="160"> ### cache <img src="https://skillicons.dev/icons?i=redis"/> redis </td> <td align="center" width="160"> ### testing <img src="https://skillicons.dev/icons?i=postman"/> postman </td> <td align="center" width="160"> ### documentation <img src="https://skillicons.dev/icons?i=swagger"/> swagger </td> <td align="center" width="160"> ### tools <img src="https://skillicons.dev/icons?i=git"/> git </td> </tr> </table> --- ## skills - scalable backend development - clean / onion architecture - modular monolith design - domain modeling - ef core optimization - linq - restful api development - redis caching --- ## github stats <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=escal3de&show_icons=true&hide_border=true&theme=transparent"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escal3de&layout=compact&hide_border=true&theme=transparent"/> </p> --- ## activity <p align="center"> <img src="https://streak-stats.demolab.com?user=escal3de&theme=transparent&hide_border=true"/> </p> --- ## philosophy ```txt good architecture should help development, not complicate it. ```
+<h1 align="center">escal3de</h1>
+<p align="center">
+  <strong>Backend Developer • ASP.NET Web API • Clean Architecture</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/escal3de">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:твой-email@example.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚡ About Me
+Backend developer focused on building **scalable** and **maintainable** systems. I enjoy designing domain models, structuring modular monoliths, and creating clean architectures that remain simple to extend and support.
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,redis,postman,swagger,git,docker,githubactions" />
+</p>
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C#, SQL |
+| **Backend** | ASP.NET Core Web API, Entity Framework Core |
+| **Databases** | PostgreSQL, SQLite, Redis (Caching) |
+| **Architecture** | Clean Architecture, Modular Monoliths, DDD |
+| **Tools & Testing** | Git, Postman, Swagger, xUnit / Bogus |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=escal3de&show_icons=true&hide_border=true&theme=transparent&title_color=007acc&text_color=999&icon_color=007acc" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escal3de&layout=compact&hide_border=true&theme=transparent&title_color=007acc&text_color=999" />
+</p>
+
+### 📈 Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=escal3de&theme=transparent&hide_border=true&stroke=007acc&ring=007acc&fire=007acc&currStreakNum=999" width="100%" />
+</p>
+
+---
+
+### 🧩 Philosophy
+> *"Good architecture should help development, not complicate it."*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=escal3de&label=Profile%20views&color=007acc&style=flat" alt="escal3de" />
+</p>
