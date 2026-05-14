@@ -11,7 +11,7 @@
   <a href="https://github.com/escal3de">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:твой-email@example.com">
+  <a href="mailto:arsenijescal3de@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -42,13 +42,13 @@ Backend developer focused on building **scalable** and **maintainable** systems.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=escal3de&show_icons=true&hide_border=true&theme=transparent&title_color=007acc&text_color=999&icon_color=007acc" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escal3de&layout=compact&hide_border=true&theme=transparent&title_color=007acc&text_color=999" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=escal3de&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=007acc&icon_color=007acc" alt="escal3de github stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escal3de&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=007acc" alt="escal3de top langs" />
 </p>
 
 ### 📈 Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=escal3de&theme=transparent&hide_border=true&stroke=007acc&ring=007acc&fire=007acc&currStreakNum=999" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=escal3de&theme=dark&hide_border=true&stroke=007acc&ring=007acc&fire=007acc" width="100%" />
 </p>
 
 ---
