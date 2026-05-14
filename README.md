@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif?nii=t" alt="Gif">
 </p>
 
-<h1 align="center">escal3de</h1>
+<h1 align="center">Hi!, I am escal3de</h1>
 <p align="center">
   <strong>Backend Developer • ASP.NET Web API • Clean Architecture</strong>
 </p>
@@ -26,7 +26,7 @@ Backend developer focused on building **scalable** and **maintainable** systems.
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,redis,postman,swagger,git,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,redis,docker,githubactions,postman,swagger,git" />
 </p>
 
 | Category | Technologies |
@@ -42,13 +42,13 @@ Backend developer focused on building **scalable** and **maintainable** systems.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=escal3de&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=007acc&icon_color=007acc" alt="escal3de github stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escal3de&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=007acc" alt="escal3de top langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=escal3de&show_icons=true&theme=transparent&title_color=007acc&icon_color=007acc&text_color=ffffff&hide_border=true" alt="escal3de github stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escal3de&layout=compact&theme=transparent&title_color=007acc&text_color=ffffff&hide_border=true" alt="escal3de top langs" />
 </p>
 
 ### 📈 Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=escal3de&theme=dark&hide_border=true&stroke=007acc&ring=007acc&fire=007acc" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=escal3de&theme=transparent&hide_border=true&stroke=007acc&ring=007acc&fire=007acc&currStreakLabel=007acc" width="100%" />
 </p>
 
 ---
