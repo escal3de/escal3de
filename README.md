@@ -42,8 +42,8 @@ Backend developer focused on building **scalable** and **maintainable** systems.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=escal3de&show_icons=true&theme=transparent&title_color=007acc&icon_color=007acc&text_color=ffffff&hide_border=true" alt="escal3de github stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escal3de&layout=compact&theme=transparent&title_color=007acc&text_color=ffffff&hide_border=true" alt="escal3de top langs" />
+  <img height="180" src="https://github-readme-stats-git-masterhstiv24.vercel.app/api?username=escal3de&show_icons=true&bg_color=00000000&title_color=007acc&icon_color=007acc&text_color=ffffff&hide_border=true" alt="escal3de github stats" />
+  <img height="180" src="https://github-readme-stats-git-masterhstiv24.vercel.app/api/top-langs/?username=escal3de&layout=compact&bg_color=00000000&title_color=007acc&text_color=ffffff&hide_border=true" alt="escal3de top langs" />
 </p>
 
 ### 📈 Activity
