@@ -1,19 +1,21 @@
 <div align="center">
 
-# `SYSTEM_RUNTIME // escal3de.v10`
+# Arseniy · escal3de
 
-**Backend Software Engineer · .NET Ecosystem**  
-*Building scalable distributed backends, background daemons & clean modular architectures.*
+<p align="center">
+  <strong>Middle Backend Engineer · .NET Ecosystem</strong><br>
+  <em>Designing high-throughput distributed systems & clean modular architectures</em>
+</p>
 
 <p align="center">
   <a href="https://escal3de.site">
-    <img src="https://img.shields.io/badge/🌐_Website-escal3de.site-0A84FF?style=flat-square" alt="Website" />
+    <img src="https://img.shields.io/badge/escal3de.site-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="Website" />
   </a>
   <a href="https://t.me/escal3de">
-    <img src="https://img.shields.io/badge/✈️_Telegram-@escal3de-229ED9?style=flat-square" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram" />
   </a>
   <a href="mailto:arsenijescal3de@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-Contact_Me-EA4335?style=flat-square" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
   </a>
 </p>
 
