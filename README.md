@@ -1,102 +1,57 @@
-<div align="center">
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/13279244725090780108/7A41D15BE1BF76E6C198514CD3C1CED3B39844DA/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" alt="Animated banner" width="100%" />
+</p>
 
-# Arseniy · escal3de
+<h1 align="center">Hi, I'm escal3de 👋</h1>
 
 <p align="center">
-  <strong>Middle Backend Engineer · .NET Ecosystem</strong><br>
-  <em>Designing high-throughput distributed systems & clean modular architectures</em>
+  <strong>Backend Developer · ASP.NET Core · Clean Architecture</strong>
 </p>
 
 <p align="center">
-  <a href="https://escal3de.site">
-    <img src="https://img.shields.io/badge/escal3de.site-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="Website" />
+  <a href="https://github.com/escal3de">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
   <a href="https://t.me/escal3de">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="28" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:arsenijescal3de@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
 </p>
 
-</div>
-
 ---
 
-```csharp
-// Identity & runtime domain entity
-public sealed record BackendEngineer(
-    string Name = "Arseniy",
-    string Handle = "escal3de",
-    int Age = 15,
-    Specialization Focus = Specialization.HighThroughputApis | Specialization.ModularMonoliths
-) : IArchitecturalThinker;
+## ⚡ About me
 
-/* "Clean code doesn't mean dozens of useless abstractions.
-    It means explicit domain boundaries and predictable data flow." */
-```
+I build scalable, maintainable backend systems with C# and ASP.NET Core. I enjoy turning complex business requirements into clear domain models, designing modular monoliths, and keeping architecture practical rather than ornamental.
 
----
+- Designing HTTP APIs and background services
+- Building with Clean Architecture, DDD, and modular monolith principles
+- Working with relational databases, caching, containers, and automated delivery
 
-### 📐 `[BLUEPRINT]` Typical Request Lifecycle in My Systems
+> “Good architecture should help development, not complicate it.”
 
-```text
-[HTTP / Webhook Request]
-       │
-       ▼
-[ASP.NET Minimal API Endpoint] ────► [FluentValidation (Fail Fast)]
-       │
-       ▼
-[Domain Handler / UseCase] ────────► [Result<T> Invariant Checks]
-       │
-       ├──► [PostgreSQL via EF Core] ── (Transactional Boundary)
-       │
-       ├──► [Redis Streams] ─────────── (Event Pub/Sub to Worker Daemons)
-       │
-       └──► [BackgroundService] ────── (Async Task Execution & Retries)
-```
+## 🛠 Tech stack
 
----
-
-### ⚡ Engineering Principles
-
-- 🎯 **Pragmatic DDD**: Rich-модели предметной области с приватными сеттерами и фабричными методами. Невозможно создать невалидное состояние сущности.
-- 🛡️ **Flow Without Exceptions**: Поток выполнения контролируется через `Result<T>`. Исключения зарезервированы исключительно для неожиданных системных сбоев.
-- 📦 **Modular Monoliths**: Строгие границы модулей и высокая связность внутри без сетевых задержек и инфраструктурного ада микросервисов.
-- 🚀 **High-Load Awareness**: Асинхронные очереди, стримы Redis, connection pooling и оптимизация сериализации для предсказуемого p99 latency.
-
----
-
-### 🛠️ Production Stack
-
-`C# 13` · `.NET 9/10` · `ASP.NET Core Minimal APIs` · `PostgreSQL` · `Redis (Streams / Cache)` · `EF Core` · `Docker Compose` · `GitHub Actions CI/CD` · `Linux VPS` · `xUnit` · `FluentValidation` · `Serilog`
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,githubactions,linux,git&theme=dark" alt="Skills" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,redis,docker,githubactions,postman,swagger,git" alt="C#, .NET, PostgreSQL, SQLite, Redis, Docker, GitHub Actions, Postman, Swagger and Git" />
 </p>
 
----
+| Area | Technologies |
+| :-- | :-- |
+| **Languages** | C#, SQL |
+| **Backend** | ASP.NET Core Web API, Entity Framework Core |
+| **Data** | PostgreSQL, SQLite, Redis |
+| **Architecture** | Clean Architecture, DDD, Modular Monoliths |
+| **Tools & testing** | Docker, GitHub Actions, Swagger, Postman, xUnit, Git |
 
-<details>
-  <summary><b>💡 The 15 y.o. Developer Paradox: Why Backend & Architecture?</b></summary>
-  <br>
-  <i>
-    While many developers my age start with frontend interfaces or game scripts, I was captivated by the unseen complexity of server infrastructure: how data flows through streams, how to keep database schemas clean under high load, and how to design systems that don't crumble when business requirements change. I believe age is irrelevant when your code is clean, robust, and tested in production.
-  </i>
-</details>
-
----
-
-### 📊 Consistency & Streak
+## 📈 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=escal3de&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=escal3de&amp;theme=tokyonight&amp;hide_border=true&amp;stroke=007acc&amp;ring=007acc&amp;fire=007acc" alt="GitHub contribution streak" width="100%" />
 </p>
 
----
-
-<div align="center">
-  <sub><code>escal3de.site // [STATUS: 200 OK — ZERO RUNTIME EXCEPTIONS]</code></sub>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=escal3de&amp;label=Profile%20views&amp;color=007acc&amp;style=flat" alt="Profile views" />
+</p>
