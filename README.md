@@ -35,7 +35,7 @@ I build scalable, maintainable backend systems with C# and ASP.NET Core. I enjoy
 ## 🛠 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,redis,docker,githubactions,postman,swagger,git" alt="C#, .NET, PostgreSQL, SQLite, Redis, Docker, GitHub Actions, Postman, Swagger and Git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,redis,docker,githubactions,postman,git" alt="C#, .NET, PostgreSQL, SQLite, Redis, Docker, GitHub Actions, Postman and Git" />
 </p>
 
 | Area | Technologies |
